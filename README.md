@@ -66,7 +66,7 @@ e.g: https://vger.kernel.org/
 
 - 使用[UltralSO](https://www.ultraiso.com/)或其它同类软件制作iso，将文件存入虚拟光盘中并挂载
 
-- 本文中所有操作均使用Release中的iso完成
+- 本文中所有操作均使用Releases中的iso完成
 
 - 盘符一般为A：
 
@@ -223,7 +223,7 @@ e.g: https://vger.kernel.org/
   #### 7.对程序的更改
 
   本项目未对程序本体做任何修改。
-  本项目所有文件均为原版。所有修改存于Release中的ISO镜像中。
+  本项目所有文件均为原版。所有修改存于Releases中的ISO镜像中。
   - ISO镜像更改：
   - 去除了ARACHNE 1.99GPL的编译包ASRC199.ZIP，仅保留安装文件exe
   - 增加了MicroWeb的启动脚本start.bat，自动配置代理，自动打开本地文件防止卡死
