@@ -142,7 +142,7 @@ e.g: https://vger.kernel.org/
 
   即可启动安装程序。注意，尽量将此文件置于C盘根目录。
 
-  配置网络仅需不断点击Next，中途选择Packet Wizcard，然后继续点击Next，程序将自动获取网络。
+  配置网络一路点击Next，选择Packet Wizcard，然后继续一路点击Next，程序将自动获取网络。
 
   退出后
 
@@ -206,7 +206,7 @@ e.g: https://vger.kernel.org/
 
     ![](Picture/SETUP.PNG)
 
-  此时，再次运行MicroWeb，就可以访问https网络了。
+  此时，再次运行MicroWeb，就可以访问https网络了。如果失败，请检查您的网络防火墙。
 
 - 代理需求
 
@@ -253,7 +253,7 @@ e.g: https://vger.kernel.org/
 
 - 代理层
 
-  由于DOS系统无法处理现代网页https的TLS加密等，因此为MicroWeb等浏览器设置宿主机为http代理服务器，宿主机通过WebOne将https处理为http后回传DOS浏览器。
+  由于DOS系统无法处理现代网页https的TLS加密等，因此为MicroWeb等浏览器设置宿主机http代理服务器，宿主机通过WebOne将https处理为http后回传DOS浏览器。
 
 #### 10.本项目所有文件来源于网络，且已给出链接，仅可作为个人交流学习使用。若发现本项目侵犯了您的权益，请联系3636230447@qq.com，以便删除处理。
 
