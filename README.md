@@ -237,6 +237,8 @@ e.g: https://vger.kernel.org/
 
 本项目仍然无法解决DOS系统下的中文显示问题，且不支持IPX。
 
+> Releases中的mtcp.cfg存在问题，Hostname不应该使用Gx这样的大小写，请进行修改.
+
 #### 9.项目原理
 
 - 硬件层
@@ -255,7 +257,7 @@ e.g: https://vger.kernel.org/
 
   由于DOS系统无法处理现代网页https的TLS加密等，因此为MicroWeb等浏览器设置宿主机http代理服务器，宿主机通过WebOne将https处理为http后回传DOS浏览器。
 
-#### 10.本项目所有文件来源于网络，且已给出链接，仅可作为个人交流学习使用。若发现本项目侵犯了您的权益，请联系3636230447@qq.com，以便删除处理。
+#### 10.本项目所有文件来源于网络，且已给出链接，仅可作为个人交流学习使用。若发现本项目侵犯了您的权益，请联系oj293656@gmail.com，以便删除处理。
 
 MS-DOS系统镜像来源：https://winworldpc.com/product/ms-dos/7x
 
